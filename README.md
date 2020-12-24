@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **navilur/navilur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Navilur Rahman](https://www.facebook.com/navilur.rahman) [Navilur Rahman](https://www.linkedin.com/in/navilur-rahman-360985175/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am finished
--->
+
