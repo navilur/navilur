@@ -8,7 +8,7 @@ I am Navilur Rahman. I am a frontend developer...
 - 👯 I’m looking to collaborate on Django
 - 😇 Allah helps me
 - 💬 Ask me about anything
-- 📫 How to reach me: [Navilur Rahman](https://www.facebook.com/navilur.rahman)/[Navilur Rahman](https://www.linkedin.com/in/navilur-rahman-360985175/)
+- 📫 How to reach me: [Navilur Rahman](https://www.facebook.com/navilur.rahman)/[Navilur Rahman](https://www.linkedin.com/in/navilur-rahman-360985175/)/[Navilur Rahman](https://navilur.github.io/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am finished
 
