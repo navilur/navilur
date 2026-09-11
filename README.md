@@ -1,288 +1,310 @@
-Yes — I checked your actual GitHub profile. Your current profile README is quite minimal, and GitHub currently shows **40 repositories** with your profile README beginning with “Assalamualaikum” and describing you as a frontend developer. ([GitHub][1])
+<div align="center">
 
-I’d recommend **updating it rather than using the previous generic version**. Your profile should better reflect your current direction: **Vue.js / Vue 3 / Nuxt / React / TypeScript / software development**.
+# 👋 Assalamualaikum, I'm **Navilur Rahman**
 
-Here is a cleaner version designed specifically for `github.com/navilur`:
+### 💻 Frontend Developer • Vue.js Specialist • Software Developer
 
-# 👋 Assalamualaikum, I'm Navilur Rahman
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=42B883&center=true&vCenter=true&width=650&lines=Vue.js+%7C+Vue+3+%7C+Nuxt.js;React.js+%7C+Next.js+%7C+TypeScript;Building+Modern+%26+Scalable+Web+Apps;Turning+Ideas+Into+Production-Ready+Software" alt="Typing SVG" />
 
-### 💻 Frontend Developer | Vue.js Developer | Software Developer
+<br/>
 
-I’m a passionate **Frontend Developer** with 4+ years of hands-on experience building modern, responsive, and scalable web applications.
+<a href="https://navilur.github.io/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-42B883?style=for-the-badge" />
+</a>
+<a href="https://github.com/navilur">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+</a>
 
-I specialize in **Vue.js, Vue 3, Nuxt.js, React.js, TypeScript, JavaScript, and REST API integration**. I enjoy transforming ideas and designs into clean, maintainable, and production-ready applications.
+<br/><br/>
 
-```javascript
-const navilur = {
-  role: "Frontend Developer",
-  location: "Dhaka, Bangladesh",
+<img src="https://komarev.com/ghpvc/?username=navilur&label=Profile%20Views&color=42B883&style=flat-square" />
 
-  primaryStack: [
-    "Vue.js",
-    "Vue 3",
-    "Nuxt.js",
-    "JavaScript",
-    "TypeScript"
-  ],
+</div>
 
-  alsoWorkingWith: [
-    "React",
-    "Next.js",
-    "REST APIs",
-    "Pinia",
-    "Tailwind CSS",
-    "Bootstrap"
-  ],
+---
 
-  currentlyLearning: [
-    "Backend Development",
-    "Node.js",
-    "System Design",
-    "SaaS Architecture",
-    "Software Engineering",
-    "AI-assisted Development"
-  ],
+## 🧑‍💻 About Me
 
-  interests: [
-    "Software Development",
-    "SaaS",
-    "Open Source",
-    "AI",
-    "Problem Solving"
-  ]
+I'm a **Frontend Developer with 4+ years of hands-on experience**, focused on creating modern, responsive, and scalable web applications.
+
+My primary expertise is **Vue.js and the Vue ecosystem**, while I'm also expanding into **React, Next.js, Nuxt.js, TypeScript, backend development, and software engineering**.
+
+```typescript
+const developer = {
+    name: "Navilur Rahman",
+    role: "Frontend Developer",
+
+    specialization: [
+        "Vue.js",
+        "Vue 3",
+        "Composition API",
+        "Nuxt.js"
+    ],
+
+    technologies: [
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "REST APIs",
+        "Pinia"
+    ],
+
+    interests: [
+        "Software Engineering",
+        "SaaS",
+        "System Design",
+        "Backend Development",
+        "AI"
+    ],
+
+    mindset: "Always learning. Always building. 🚀"
 };
 ```
 
-## 🚀 About Me
+---
 
-* 🔭 Building modern web applications and SaaS products
-* 💻 4+ years of experience in frontend development
-* 🟢 Specialized in **Vue.js & Vue 3 Composition API**
-* 🌱 Currently expanding my knowledge of **Nuxt.js, TypeScript, React, Next.js & Backend Development**
-* 🤖 Using AI tools to improve development, debugging, testing, and problem solving
-* 🧩 Experienced with dashboards, admin panels, e-commerce and business applications
-* 🎨 Comfortable converting **Figma designs into responsive interfaces**
-* 🔌 Experienced in **REST API integration and authentication**
-* ⚡ Interested in building scalable and maintainable software
-* 🤝 Open to interesting projects and collaborations
+## ⚡ What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎨 Frontend Development
+
+* Vue 2 / Vue 3
+* Composition API
+* `<script setup>`
+* Nuxt.js
+* React.js
+* Next.js
+* TypeScript
+* JavaScript ES6+
+
+</td>
+
+<td width="50%">
+
+### 🔧 Application Development
+
+* REST API Integration
+* Authentication & Authorization
+* Pinia State Management
+* Dashboard & Admin Panels
+* E-commerce Applications
+* Responsive UI/UX
+* Performance Optimization
+* Cross-browser Development
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Arsenal
 
-### Frontend
+### 🚀 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,js,ts,html,css" />
 </p>
 
-### UI & Styling
+### 🎨 UI / Design
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,figma" />
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,figma" />
 </p>
 
-### Backend & Database
+### ⚙️ Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,django,php,laravel,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,django,php,laravel,mysql,postgres" />
 </p>
 
-### Tools & Development
+### 🔨 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,docker" />
 </p>
 
 ---
 
-## 💼 What I Build
-
-```text
-┌─────────────────────────────────────┐
-│          Modern Web Apps            │
-├─────────────────────────────────────┤
-│                                     │
-│  🎨 Responsive UI / UX              │
-│  ⚡ Vue 3 / React                   │
-│  🔌 REST API Integration            │
-│  🔐 Authentication                  │
-│  📊 Dashboards & Admin Panels       │
-│  🛒 E-commerce Applications         │
-│  📱 Responsive Applications         │
-│  🚀 Performance Optimization        │
-│  🧩 Scalable Components             │
-│                                     │
-└─────────────────────────────────────┘
-```
-
----
-
-## ⭐ Featured Projects
+# 🚀 Featured Work
 
 ### 🏢 IDLC
 
-Corporate website with dynamic content, magazine sections, economic indicators, industry insights, expert opinions, and API-driven content.
+> Corporate website with dynamic content, magazines, economic indicators, industry insights and expert opinions.
 
-**Vue.js · REST API · Pinia · ECharts**
+**Stack:** `Vue.js` `REST API` `Pinia` `ECharts`
 
-🔗 [Live Website](https://idlc2.exsentra.com/)
+🌐 **[Live Website](https://idlc2.exsentra.com/)**
 
 ---
 
 ### 🛒 Desheio
 
-Multivendor e-commerce platform with product management, vendors, categories, cart functionality, authentication, and admin features.
+> Multivendor e-commerce platform with vendor management, products, categories, cart functionality, authentication and administration.
 
-**Vue.js · PrimeVue · Bootstrap · REST API · JWT**
+**Stack:** `Vue.js` `PrimeVue` `Bootstrap` `REST API` `JWT`
 
-🔗 [UAT Website](https://uat.desheio.com/)
+🌐 **[UAT Website](https://uat.desheio.com/)**
 
 ---
 
-### 🍔 Food Delivery Application
+### 🍔 Food Delivery Platform
 
-A responsive food delivery platform focused on restaurant, product, and ordering workflows.
+> Responsive food delivery application focused on restaurant, product and ordering workflows.
 
-**Vue.js · JavaScript · REST API · Responsive UI**
+**Stack:** `Vue.js` `JavaScript` `REST API`
 
 ---
 
 ### 🎁 Realme Eid Offer
 
-Promotional platform supporting lottery and pre-booking functionality.
+> Interactive promotional platform featuring lottery and pre-booking functionality.
 
-**Vue.js · JavaScript · REST API**
+**Stack:** `Vue.js` `JavaScript` `REST API`
 
-🔗 [Live Website](https://realmebd.com/eidoffer/)
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navilur&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navilur&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navilur&theme=tokyonight&hide_border=true" />
-</p>
+🌐 **[Live Website](https://realmebd.com/eidoffer/)**
 
 ---
 
-## 🧠 Currently Learning
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=navilur&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navilur&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=navilur&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=navilur&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# 🧠 Currently Exploring
 
 ```text
-Frontend
-├── Advanced Vue 3
-├── Nuxt.js
-├── TypeScript
-├── React
-└── Next.js
+Vue 3
+  └── Advanced Composition API
+  └── Performance
+  └── Architecture
+
+Nuxt.js
+  └── SSR / SSG
+  └── Server API
+  └── Full-stack Applications
+
+TypeScript
+  └── Advanced Types
+  └── Scalable Applications
+
+React / Next.js
+  └── App Router
+  └── Server Components
+  └── Authentication
 
 Backend
-├── Node.js
-├── Django
-├── Laravel
-└── REST API Architecture
+  └── Node.js
+  └── Django
+  └── Laravel
+  └── API Architecture
 
 Software Engineering
-├── System Design
-├── Database Design
-├── Software Architecture
-├── Security
-└── Performance
+  └── System Design
+  └── Database Design
+  └── Security
+  └── Scalability
 
 AI
-├── AI-assisted Development
-├── AI Coding Tools
-└── AI-powered Applications
+  └── AI-assisted Development
+  └── AI Coding Tools
+  └── AI-powered Applications
 ```
 
 ---
 
-## 🤖 AI-Assisted Development
+# 🤖 AI + Development
 
-I use AI as a development companion for:
+I use AI as a **development companion**, not a replacement for engineering fundamentals.
 
-* 🧠 Problem solving
-* 🐛 Debugging
-* ⚡ Faster development
-* 🔍 Code analysis
-* 📝 Documentation
-* 🧪 Testing
-* 🏗️ Architecture exploration
-* 📚 Learning new technologies
+### AI helps me with:
 
-> **AI helps me move faster, but strong engineering fundamentals come first.**
+⚡ Faster development
+🐛 Debugging
+🧠 Problem solving
+🔍 Code analysis
+🏗️ Architecture exploration
+🧪 Testing
+📝 Documentation
+📚 Learning new technologies
+
+> **Think better → Build faster → Ship better.**
 
 ---
 
-## 📈 My Development Journey
+# 🎯 2026 Goals
 
 ```text
-HTML / CSS
-     ↓
-JavaScript
-     ↓
-Vue.js
-     ↓
-Vue 3 + Composition API
-     ↓
-Nuxt.js + TypeScript
-     ↓
-React + Next.js
-     ↓
-REST APIs + Authentication
-     ↓
-Backend Development
-     ↓
-System Design
-     ↓
-Scalable Software & SaaS
+[██████████████████░░] Vue / Nuxt        🚀
+[███████████████░░░░░] TypeScript        📘
+[██████████████░░░░░░] React / Next.js   ⚛️
+[███████████░░░░░░░░░] Backend           ⚙️
+[█████████░░░░░░░░░░░] System Design     🏗️
+[███████░░░░░░░░░░░░░] SaaS              🚀
+[██████░░░░░░░░░░░░░░] AI Engineering    🤖
 ```
 
 ---
 
-## 🌐 Connect With Me
+# 💡 Developer Philosophy
 
-<p align="left">
-  <a href="https://navilur.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/navilur">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+### **"Don't just write code. Build solutions."**
+
+<br/>
+
+**Learn → Build → Break → Debug → Improve → Repeat**
+
+</div>
 
 ---
 
-## 💡 Developer Philosophy
+# 🤝 Let's Connect
 
-> **Build things. Break things. Learn from them. Build better things.**
+<div align="center">
 
-<p align="center">
-  <b>⚡ Code • Learn • Build • Improve 🚀</b>
-</p>
+<a href="https://navilur.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-42B883?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
+<a href="https://github.com/navilur">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-### One important change I'd make
+<br/><br/>
 
-Your current README says:
+### ⭐ Thanks for visiting my profile!
 
-> “I’m currently working on Python”
-> “I’m currently learning Python”
-> “I’m looking to collaborate on Django” ([GitHub][1])
+**Happy Coding! 🚀**
 
-That doesn't really represent your **current professional profile** anymore. I'd shift the README toward **Vue 3 → Nuxt → TypeScript → React/Next → backend/software engineering**, which is much more aligned with the direction you're presenting to recruiters.
-
-Also, your profile currently has **40 repositories**, so the next improvement I'd recommend is making your **pinned repositories and individual project READMEs** look consistent with this profile. ([GitHub][1])
-
-[1]: https://github.com/navilur "navilur (Navilur Rahman) · GitHub"
+</div>
