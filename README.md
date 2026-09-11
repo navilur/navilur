@@ -21,7 +21,47 @@
 I'm a **Frontend Engineer with 5+ years of professional experience**, specializing in **Vue.js, Nuxt.js, SSR/hybrid rendering, and component-driven architecture**. I enjoy transforming ideas and designs into fast, responsive, maintainable products — and I care about UX as much as clean code.
 
 ```js
-const navilur = { role: "Frontend Engineer", location: "Dhaka, Bangladesh", experience: "5+ years", education: [ "M.Sc. in Computer Science — Daffodil International University", "B.Sc. in Computer Science — Daffodil International University", "Google UX Design Professional Certificate" ], primaryStack: [ "Vue.js", "Vue 3", "Nuxt.js", "TypeScript", "JavaScript" ], alsoWorkingWith: [ "React.js", "Next.js", "REST APIs", "Pinia", "Tailwind CSS" ], currentlyLearning: [ "Backend Development", "System Design", "AI-assisted Development" ], interests: [ "SaaS", "Scalable Applications", "Developer Tools", "UX Design" ] };
+const navilur = {
+  role: "Frontend Engineer",
+  location: "Dhaka, Bangladesh",
+  experience: "5+ years",
+
+  education: [
+    "M.Sc. in Computer Science — Daffodil International University",
+    "B.Sc. in Computer Science — Daffodil International University",
+    "Google UX Design Professional Certificate"
+  ],
+
+  primaryStack: [
+    "Vue.js",
+    "Vue 3",
+    "Nuxt.js",
+    "TypeScript",
+    "JavaScript"
+  ],
+
+  alsoWorkingWith: [
+    "React.js",
+    "Next.js",
+    "REST APIs",
+    "Pinia",
+    "Tailwind CSS"
+  ],
+
+  currentlyLearning: [
+    "Backend Development",
+    "System Design",
+    "Software Architecture",
+    "AI-assisted Development"
+  ],
+
+  interests: [
+    "SaaS",
+    "Software Engineering",
+    "Scalable Applications",
+    "Developer Tools"
+  ]
+};
 ```
 
 ---
