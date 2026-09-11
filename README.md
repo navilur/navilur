@@ -1,270 +1,226 @@
 <div align="center">
 
-# 👋 Assalamualaikum, I'm **Navilur Rahman**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=200&section=header&text=Navilur%20Rahman&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Engineer%20%7C%20Vue.js%20Specialist&descAlignY=55&descSize=20" width="100%"/>
 
-### 💻 Frontend Developer · Vue.js Specialist · Software Developer
-
-**Building clean, scalable & user-focused web applications**
+<a href="https://navilur.github.io/">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Frontend+Engineer+%7C+Vue.js+Specialist;5%2B+Years+Building+Scalable+Web+Apps;Turning+Ideas+into+Clean%2C+Fast+UIs;Always+Learning+%E2%80%A2+Always+Shipping" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<a href="https://navilur.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-<a href="https://github.com/navilur">
-  <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge&logoColor=white)](https://navilur.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/navilur)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+### 🧑‍💻 About Me
 
-I'm a **Frontend Developer with 4+ years of hands-on experience**, specializing in **Vue.js and modern JavaScript applications**.
+I'm a **Frontend Engineer with 5+ years of professional experience**, specializing in **Vue.js, Nuxt.js, SSR/hybrid rendering, and component-driven architecture**. I enjoy transforming ideas and designs into fast, responsive, maintainable products — and I care about UX as much as clean code.
 
-I enjoy transforming ideas and designs into fast, responsive, maintainable products.
-
-```ts
+```js
 const navilur = {
-  role: "Frontend Developer",
-  specialization: "Vue.js",
-  experience: "4+ years",
+  role: "Frontend Engineer",
+  location: "Dhaka, Bangladesh",
+  experience: "5+ years",
 
-  primaryStack: [
-    "Vue.js",
-    "Vue 3",
-    "Nuxt.js",
-    "TypeScript",
-    "JavaScript"
+  education: [
+    "M.Sc. in Computer Science — Daffodil International University",
+    "B.Sc. in Computer Science — Daffodil International University",
+    "Google UX Design Professional Certificate"
   ],
 
-  alsoWorkingWith: [
-    "React.js",
-    "Next.js",
-    "REST APIs",
-    "Pinia",
-    "Tailwind CSS"
-  ],
-
-  currentlyLearning: [
-    "Backend Development",
-    "System Design",
-    "Software Architecture",
-    "AI-assisted Development"
-  ],
-
-  interests: [
-    "SaaS",
-    "Software Engineering",
-    "Scalable Applications",
-    "Developer Tools"
-  ]
+  primaryStack: ["Vue.js", "Vue 3", "Nuxt.js", "TypeScript", "JavaScript"],
+  alsoWorkingWith: ["React.js", "Next.js", "REST APIs", "Pinia", "Tailwind CSS"],
+  currentlyLearning: ["Backend Development", "System Design", "AI-assisted Development"],
+  interests: ["SaaS", "Scalable Applications", "Developer Tools", "UX Design"]
 };
 ```
 
 ---
 
-## 🚀 What I Do
+### 🏢 Experience
 
-| Area              | What I Build                                    |
-| ----------------- | ----------------------------------------------- |
-| 🎨 Frontend       | Modern, responsive & accessible interfaces      |
-| ⚡ Vue.js          | Vue 2/3, Composition API & `<script setup>`     |
-| 🧩 Nuxt           | SSR applications, routing & API integration     |
-| 🔌 APIs           | REST API integration & authentication           |
-| 📊 Dashboards     | Admin panels, analytics & business systems      |
-| 🛒 E-commerce     | Product, cart, vendor & order management        |
-| 🔐 Authentication | JWT-based authentication & protected routes     |
-| 🚀 Performance    | Lazy loading, optimization & clean architecture |
-| 🤖 AI             | AI-assisted coding, debugging & development     |
+<div align="center">
+
+| Company | Focus |
+|:---|:---|
+| **The Boring Platform** | Frontend engineering, component-driven architecture |
+| **Exsentra Innovation Limited** | Vue.js applications, SSR/hybrid rendering |
+| **InfoDigita Technologies** | Frontend development, REST API integration |
+
+</div>
 
 ---
 
-# 🛠️ Tech Stack
+### 🚀 What I Do
 
-### Frontend
+<div align="center">
 
-<p>
+| 🎨 Frontend | ⚡ Vue.js | 🧩 Nuxt | 🔌 APIs |
+|:---:|:---:|:---:|:---:|
+| Modern, responsive & accessible UIs | Vue 2/3, Composition API, `<script setup>` | SSR/hybrid apps, routing & integration | REST integration & authentication |
+
+| 📊 Dashboards | 🛒 E-commerce | 🔐 Auth | 🚀 Performance |
+|:---:|:---:|:---:|:---:|
+| Admin panels & analytics | Vendor, cart & order systems | JWT & protected routes | Lazy loading & optimization |
+
+</div>
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+**Frontend**
+<br/>
 <img src="https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,typescript,javascript,html,css" />
-</p>
 
-### UI & Styling
-
-<p>
+**UI & Styling**
+<br/>
 <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,figma" />
-</p>
 
-### Backend & Database
-
-<p>
+**Backend & Database**
+<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,python,django,php,laravel,mysql,postgres" />
-</p>
 
-### Tools
-
-<p>
+**Tools**
+<br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,docker" />
-</p>
+
+</div>
 
 ---
 
-# 💼 Featured Projects
+### 📊 GitHub Stats
 
-## 🏢 IDLC Corporate Platform
+<div align="center">
 
-A dynamic corporate web platform featuring content management, insights, magazines and economic data.
+<img src="https://github-readme-stats.vercel.app/api?username=navilur&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=navilur&theme=tokyonight&hide_border=true" width="48%" />
 
-**Tech:** Vue.js · Pinia · REST API · ECharts
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navilur&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
-🔗 https://idlc2.exsentra.com/
-
----
-
-## 🛒 Desheio — Multivendor E-commerce
-
-A multivendor e-commerce platform with vendor management, products, categories, cart and authentication.
-
-**Tech:** Vue.js · PrimeVue · Bootstrap · REST API · JWT
-
-🔗 https://uat.desheio.com/
+</div>
 
 ---
 
-## 📱 Realme Eid Offer
+### 🏆 GitHub Trophies
 
-A campaign platform supporting lottery and pre-booking functionality.
+<div align="center">
 
-**Tech:** Vue.js · JavaScript · REST API
+<img src="https://github-profile-trophy.vercel.app/?username=navilur&theme=tokyonight&no-frame=true&row=1&column=6" />
 
-🔗 https://realmebd.com/eidoffer/
-
----
-
-## 🍔 Food Delivery Platform
-
-A responsive food delivery application focused on restaurant browsing, food ordering and user experience.
-
-**Tech:** Vue.js · JavaScript · REST API · Responsive UI
+</div>
 
 ---
 
-# 🧠 My Development Philosophy
+### 💼 Featured Projects
 
-```text
-Good UI
-   ↓
-Clean Code
-   ↓
-Reusable Components
-   ↓
-Reliable Architecture
-   ↓
-Performance
-   ↓
-Better User Experience
-```
+<table>
+<tr>
+<td width="50%">
 
-> "Write code that is easy to understand today and easy to maintain tomorrow."
+**🏢 IDLC Corporate Platform**
+<br/>
+Dynamic corporate web platform with content management, insights, magazines & economic data.
+<br/>
+`Vue.js` `Pinia` `REST API` `ECharts`
+<br/>
+🔗 [idlc2.exsentra.com](https://idlc2.exsentra.com/)
+
+</td>
+<td width="50%">
+
+**🛒 Desheio — Multivendor E-commerce**
+<br/>
+Multivendor platform with vendor management, products, categories, cart & auth.
+<br/>
+`Vue.js` `PrimeVue` `Bootstrap` `JWT`
+<br/>
+🔗 [uat.desheio.com](https://uat.desheio.com/)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**📱 Realme Eid Offer**
+<br/>
+Campaign platform supporting lottery and pre-booking functionality.
+<br/>
+`Vue.js` `JavaScript` `REST API`
+<br/>
+🔗 [realmebd.com/eidoffer](https://realmebd.com/eidoffer/)
+
+</td>
+<td width="50%">
+
+**🍔 Food Delivery Platform**
+<br/>
+Responsive app focused on restaurant browsing, ordering & UX.
+<br/>
+`Vue.js` `JavaScript` `REST API`
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🤖 AI-Assisted Development
+### 🧠 My Development Philosophy
+
+<div align="center">
+Good UI → Clean Code → Reusable Components → Reliable Architecture → Performance → Better UX
+
+*"Write code that is easy to understand today and easy to maintain tomorrow."*
+
+</div>
+
+---
+
+### 🤖 AI-Assisted Development
 
 I actively use AI as a **development productivity tool**, especially for:
 
-* 🔍 Debugging & error analysis
-* 🧠 Understanding complex code
-* 🏗️ Exploring architecture
-* 🧪 Test case generation
-* 📝 Documentation
-* ⚡ Development acceleration
-* 📚 Learning new technologies
-* 🔄 Refactoring & optimization
+🔍 Debugging & error analysis · 🧠 Understanding complex code · 🏗️ Exploring architecture · 🧪 Test generation · 📝 Documentation · ⚡ Development acceleration · 📚 Learning new tech · 🔄 Refactoring
 
-**AI doesn't replace engineering — it helps me engineer faster and better.**
+> **AI doesn't replace engineering — it helps me engineer faster and better.**
 
 ---
 
-# 📚 Currently Learning
+### 🎯 2026 Goals
 
-```text
-Frontend
-├── Vue 3
-├── Nuxt 3
-├── TypeScript
-└── React / Next.js
-
-Backend
-├── Node.js
-├── Django
-└── Laravel
-
-Software Engineering
-├── REST API Architecture
-├── Database Design
-├── System Design
-├── Authentication
-├── Security
-└── Scalable Architecture
-
-Future
-└── AI-powered Applications
-```
-
----
-
-# 🎯 2026 Goals
-
-* [x] Strengthen Vue 3 & Composition API
-* [x] Build production-level frontend applications
-* [x] Work with TypeScript
-* [x] Improve React & Next.js
-* [ ] Become stronger in backend development
-* [ ] Build a complete SaaS product
-* [ ] Improve system design skills
-* [ ] Learn scalable backend architecture
-* [ ] Build AI-powered applications
-* [ ] Contribute to open-source projects
-
----
-
-# 📈 GitHub
-
-<div align="center">
-
-### 💻 Code • Learn • Build • Repeat
-
-[![GitHub](https://img.shields.io/badge/GitHub-Navilur%20Rahman-181717?style=for-the-badge\&logo=github)](https://github.com/navilur)
-
-</div>
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://navilur.github.io/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-111827?style=for-the-for-the-badge" />
-</a>
-
-<a href="https://github.com/navilur">
-<img src="https://img.shields.io/badge/💻%20GitHub-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
+- [x] Strengthen Vue 3 & Composition API
+- [x] Build production-level frontend applications
+- [x] Work with TypeScript
+- [x] Improve React & Next.js
+- [ ] Become stronger in backend development
+- [ ] Build a complete SaaS product
+- [ ] Improve system design skills
+- [ ] Learn scalable backend architecture
+- [ ] Build AI-powered applications
+- [ ] Contribute to open-source projects
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 🤝 Let's Connect
 
-**Let's build something meaningful together.**
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge)](https://navilur.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/navilur)
+
+<br/>
+
+⭐ **Thanks for visiting my profile — let's build something meaningful together!**
+
+<img src="https://komarev.com/ghpvc/?username=navilur&style=flat-square&color=8B5CF6" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section=footer" width="100%"/>
 
 </div>
