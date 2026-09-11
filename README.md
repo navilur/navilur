@@ -190,38 +190,25 @@ Responsive app focused on restaurant browsing, ordering & UX.
 
 ---
 
-🧠 Currently Exploring
-                    SOFTWARE ENGINEERING
-                           │
-          ┌────────────────┼────────────────┐
-          │                │                │
-       FRONTEND          BACKEND          AI
-          │                │                │
-     Vue / Nuxt        APIs / DB       AI Tools
-     React / Next      Architecture    AI Apps
-     TypeScript        Security        Automation
-          │                │                │
-          └────────────────┼────────────────┘
-                           │
-                    SYSTEM DESIGN
-                           │
-                    SCALABLE SaaS
-🤖 AI + Software Development
+### 🧠 My Development Philosophy
 
-AI has become an important part of my development workflow.
+<div align="">
+Good UI → Clean Code → Reusable Components → Reliable Architecture → Performance → Better UX
 
-I use AI-assisted development for:
+*"Write code that is easy to understand today and easy to maintain tomorrow."*
 
-🔍 Debugging complex issues
-🧠 Understanding unfamiliar code
-🏗️ Exploring architecture
-⚡ Improving development speed
-🧪 Generating test scenarios
-🔄 Refactoring existing code
-📝 Technical documentation
-📚 Learning new technologies
+</div>
 
-AI is a development multiplier — engineering fundamentals still come first.
+---
+
+### 🤖 AI-Assisted Development
+
+I actively use AI as a **development productivity tool**, especially for:
+
+🔍 Debugging & error analysis · 🧠 Understanding complex code · 🏗️ Exploring architecture · 🧪 Test generation · 📝 Documentation · ⚡ Development acceleration · 📚 Learning new tech · 🔄 Refactoring
+
+> **AI doesn't replace engineering — it helps me engineer faster and better.**
+
 ---
 
 ### 🎯 2026 Goals
