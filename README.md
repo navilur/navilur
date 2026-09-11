@@ -90,7 +90,7 @@ const navilur = {
 </div> -->
 
 <div class="center">
-  ### Frontend
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,typescript,javascript,html,css" />
