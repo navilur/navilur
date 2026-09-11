@@ -73,46 +73,24 @@ const navilur = {
 
 ### 🛠️ Tech Stack
 
-<!-- <div align="center">
+<div align="center">
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,typescript,javascript,html,css" />
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,typescript,javascript,html,css&theme=dark" />
 
-### UI & Styling
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,figma" />
+**UI & Styling**
+<br/>
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,figma&theme=dark" />
 
-### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,python,django,php,laravel,mysql,postgres" />
+**Backend & Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,python,django,php,laravel,mysql,postgres&theme=dark" />
 
-### Tools
+**Tools**
+<br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,docker" />
 
-</div> -->
-
-<div class="center">
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,typescript,javascript,html,css" />
-</p>
-
-### UI & Styling
-
-<p>
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,figma" />
-</p>
-
-### Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,python,django,php,laravel,mysql,postgres" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,docker" />
-</p>
 </div>
 
 ---
