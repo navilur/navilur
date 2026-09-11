@@ -43,7 +43,7 @@ const navilur = {
 
 ### 🏢 Experience
 
-<div align="center">
+<div align="">
 
 | Company | Focus |
 |:---|:---|
@@ -57,7 +57,7 @@ const navilur = {
 
 ### 🚀 What I Do
 
-<div align="center">
+<div align="">
 
 | 🎨 Frontend | ⚡ Vue.js | 🧩 Nuxt | 🔌 APIs |
 |:---:|:---:|:---:|:---:|
@@ -73,7 +73,7 @@ const navilur = {
 
 ### 🛠️ Tech Stack
 
-<div align="center">
+<div align="">
 
 **Frontend**
 <br/>
@@ -99,22 +99,11 @@ const navilur = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=navilur&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=navilur&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navilur&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
 ---
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=navilur&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
 
 ---
 
