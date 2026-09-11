@@ -76,19 +76,15 @@ const navilur = {
 <div align="center">
 
 ### Frontend
-<br/>
 <img src="https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,typescript,javascript,html,css" />
 
 ### UI & Styling
-<br/>
 <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,figma" />
 
 ### Backend & Database
-<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,python,django,php,laravel,mysql,postgres" />
 
 ### Tools
-<br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,docker" />
 
 </div>
