@@ -164,7 +164,7 @@ Responsive app focused on restaurant browsing, ordering & UX.
 
 ### 🧠 My Development Philosophy
 
-<div align="center">
+<div align="">
 Good UI → Clean Code → Reusable Components → Reliable Architecture → Performance → Better UX
 
 *"Write code that is easy to understand today and easy to maintain tomorrow."*
