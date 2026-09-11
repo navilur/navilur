@@ -1,50 +1,40 @@
-<div align="center">
+# 👋 Assalamualaikum, I'm Navilur Rahman
 
-# 👋 Assalamualaikum, I'm **Navilur Rahman**
-
-### 💻 Frontend Developer · Vue.js Specialist · Software Developer
+### Frontend Engineer · Vue.js & Nuxt.js Specialist · Dhaka, Bangladesh
 
 **Building clean, scalable & user-focused web applications**
 
-<br/>
-
-<a href="https://navilur.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-<a href="https://github.com/navilur">
-  <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-11182?style=for-the-badge&logo=google-chrome&logoColor=white)](https://navilur.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-11182?style=for-the-badge&logo=github&logoColor=white)](https://github.com/navilur)
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a **Frontend Developer with 4+ years of hands-on experience**, specializing in **Vue.js and modern JavaScript applications**.
+I'm a **Frontend Engineer with 5+ years of experience**, specializing in **Vue.js, Nuxt.js, SSR/hybrid rendering, and component-driven architecture**.
 
-I enjoy transforming ideas and designs into fast, responsive, maintainable products.
+I enjoy turning ideas and designs into fast, responsive, maintainable products — and thinking carefully about how those products feel to use.
 
-```ts
+```js
 const navilur = {
-  role: "Frontend Developer",
-  specialization: "Vue.js",
-  experience: "4+ years",
+  role: "Frontend Engineer",
+  specialization: "Vue.js / Nuxt.js",
+  experience: "5+ years",
+  location: "Dhaka, Bangladesh",
 
   primaryStack: [
-    "Vue.js",
-    "Vue 3",
-    "Nuxt.js",
-    "TypeScript",
-    "JavaScript"
+    "Vue.js", "Vue 3", "Nuxt.js",
+    "TypeScript", "JavaScript"
   ],
 
   alsoWorkingWith: [
-    "React.js",
-    "Next.js",
-    "REST APIs",
-    "Pinia",
-    "Tailwind CSS"
+    "React.js", "Next.js", "REST APIs",
+    "Pinia", "Tailwind CSS"
+  ],
+
+  education: [
+    "B.Sc. & M.Sc. in Computer Science — Daffodil International University",
+    "Google UX Design Professional Certificate"
   ],
 
   currentlyLearning: [
@@ -54,12 +44,7 @@ const navilur = {
     "AI-assisted Development"
   ],
 
-  interests: [
-    "SaaS",
-    "Software Engineering",
-    "Scalable Applications",
-    "Developer Tools"
-  ]
+  languages: ["Bangla", "English"]
 };
 ```
 
@@ -67,204 +52,50 @@ const navilur = {
 
 ## 🚀 What I Do
 
-| Area              | What I Build                                    |
-| ----------------- | ----------------------------------------------- |
-| 🎨 Frontend       | Modern, responsive & accessible interfaces      |
-| ⚡ Vue.js          | Vue 2/3, Composition API & `<script setup>`     |
-| 🧩 Nuxt           | SSR applications, routing & API integration     |
-| 🔌 APIs           | REST API integration & authentication           |
-| 📊 Dashboards     | Admin panels, analytics & business systems      |
-| 🛒 E-commerce     | Product, cart, vendor & order management        |
-| 🔐 Authentication | JWT-based authentication & protected routes     |
-| 🚀 Performance    | Lazy loading, optimization & clean architecture |
-| 🤖 AI             | AI-assisted coding, debugging & development     |
+| Area | What I Build |
+|---|---|
+| 🎨 Frontend | Modern, responsive & accessible interfaces |
+| ⚡ Vue.js | Vue 2/3, Composition API & `<script setup>` |
+| 🧩 Nuxt | SSR / hybrid-rendered applications, routing & API integration |
+| 🔌 APIs | REST API integration & authentication |
+| 📊 Dashboards | Admin panels, analytics & business systems |
+| 🛒 E-commerce | Product, cart, vendor & order management |
+| 🔐 Auth | JWT-based authentication & protected routes |
+| 🚀 Performance | Lazy loading, optimization & clean architecture |
+| 🤖 AI | AI-assisted coding, debugging & development |
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,typescript,javascript,html,css" />
-</p>
-
-### UI & Styling
-
-<p>
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,figma" />
-</p>
-
-### Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,python,django,php,laravel,mysql,postgres" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,docker" />
-</p>
+**Frontend:** Vue.js · Nuxt.js · React · Next.js · TypeScript · JavaScript
+**UI & Styling:** Tailwind CSS · Bootstrap · SASS · Figma
+**Backend & DB:** Node.js · Python · PHP · Laravel · MySQL · PostgreSQL
+**Tools:** Git · GitHub · VS Code · Postman · npm · Docker
 
 ---
 
-# 💼 Featured Projects
+## 💼 Featured Projects
 
-## 🏢 IDLC Corporate Platform
-
-A dynamic corporate web platform featuring content management, insights, magazines and economic data.
-
-**Tech:** Vue.js · Pinia · REST API · ECharts
-
+**🏢 IDLC Corporate Platform**
+Corporate web platform with content management, insights, magazines and economic data.
+Tech: Vue.js · Pinia · REST API · ECharts
 🔗 https://idlc2.exsentra.com/
 
----
-
-## 🛒 Desheio — Multivendor E-commerce
-
-A multivendor e-commerce platform with vendor management, products, categories, cart and authentication.
-
-**Tech:** Vue.js · PrimeVue · Bootstrap · REST API · JWT
-
+**🛒 Desheio — Multivendor E-commerce**
+Multivendor platform with vendor management, products, categories, cart and auth.
+Tech: Vue.js · PrimeVue · Bootstrap · REST API · JWT
 🔗 https://uat.desheio.com/
 
----
-
-## 📱 Realme Eid Offer
-
-A campaign platform supporting lottery and pre-booking functionality.
-
-**Tech:** Vue.js · JavaScript · REST API
-
+**📱 Realme Eid Offer**
+Campaign platform supporting lottery and pre-booking functionality.
+Tech: Vue.js · JavaScript · REST API
 🔗 https://realmebd.com/eidoffer/
 
----
-
-## 🍔 Food Delivery Platform
-
-A responsive food delivery application focused on restaurant browsing, food ordering and user experience.
-
-**Tech:** Vue.js · JavaScript · REST API · Responsive UI
+**🍔 Food Delivery Platform**
+Responsive app focused on restaurant browsing, food ordering and UX.
+Tech: Vue.js · JavaScript · REST API · Responsive UI
 
 ---
 
-# 🧠 My Development Philosophy
-
-```text
-Good UI
-   ↓
-Clean Code
-   ↓
-Reusable Components
-   ↓
-Reliable Architecture
-   ↓
-Performance
-   ↓
-Better User Experience
-```
-
-> "Write code that is easy to understand today and easy to maintain tomorrow."
-
----
-
-# 🤖 AI-Assisted Development
-
-I actively use AI as a **development productivity tool**, especially for:
-
-* 🔍 Debugging & error analysis
-* 🧠 Understanding complex code
-* 🏗️ Exploring architecture
-* 🧪 Test case generation
-* 📝 Documentation
-* ⚡ Development acceleration
-* 📚 Learning new technologies
-* 🔄 Refactoring & optimization
-
-**AI doesn't replace engineering — it helps me engineer faster and better.**
-
----
-
-# 📚 Currently Learning
-
-```text
-Frontend
-├── Vue 3
-├── Nuxt 3
-├── TypeScript
-└── React / Next.js
-
-Backend
-├── Node.js
-├── Django
-└── Laravel
-
-Software Engineering
-├── REST API Architecture
-├── Database Design
-├── System Design
-├── Authentication
-├── Security
-└── Scalable Architecture
-
-Future
-└── AI-powered Applications
-```
-
----
-
-# 🎯 2026 Goals
-
-* [x] Strengthen Vue 3 & Composition API
-* [x] Build production-level frontend applications
-* [x] Work with TypeScript
-* [x] Improve React & Next.js
-* [ ] Become stronger in backend development
-* [ ] Build a complete SaaS product
-* [ ] Improve system design skills
-* [ ] Learn scalable backend architecture
-* [ ] Build AI-powered applications
-* [ ] Contribute to open-source projects
-
----
-
-# 📈 GitHub
-
-<div align="center">
-
-### 💻 Code • Learn • Build • Repeat
-
-[![GitHub](https://img.shields.io/badge/GitHub-Navilur%20Rahman-181717?style=for-the-badge\&logo=github)](https://github.com/navilur)
-
-</div>
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://navilur.github.io/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-111827?style=for-the-for-the-badge" />
-</a>
-
-<a href="https://github.com/navilur">
-<img src="https://img.shields.io/badge/💻%20GitHub-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**Let's build something meaningful together.**
-
-</div>
+## 🧠 Development Philosophy
