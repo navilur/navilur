@@ -73,7 +73,7 @@ const navilur = {
 
 ### 🛠️ Tech Stack
 
-<div align="center">
+<!-- <div align="center">
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,typescript,javascript,html,css" />
@@ -87,6 +87,32 @@ const navilur = {
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,docker" />
 
+</div> -->
+
+<div class="center">
+  ### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,typescript,javascript,html,css" />
+</p>
+
+### UI & Styling
+
+<p>
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,figma" />
+</p>
+
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,python,django,php,laravel,mysql,postgres" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,docker" />
+</p>
 </div>
 
 ---
