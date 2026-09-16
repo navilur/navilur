@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=200&section=header&text=Navilur%20Rahman&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Engineer%20%7C%20Vue.js%20Specialist&descAlignY=55&descSize=20" width="100%"/>
 
-<a href="https://navilur.github.io/" target="_blank">
+<a href="https://navilur.github.io/">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Frontend+Engineer+%7C+Vue.js+Specialist;5%2B+Years+Building+Scalable+Web+Apps;Turning+Ideas+into+Clean%2C+Fast+UIs;Always+Learning+%E2%80%A2+Always+Shipping" alt="Typing SVG" />
 </a>
 
