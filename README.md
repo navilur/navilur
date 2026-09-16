@@ -2,15 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=200&section=header&text=Navilur%20Rahman&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Engineer%20%7C%20Vue.js%20Specialist&descAlignY=55&descSize=20" width="100%"/>
 
-<a href="https://navilur.github.io/" target="blank">
+<a href="https://navilur.github.io/" target="_blank">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Frontend+Engineer+%7C+Vue.js+Specialist;5%2B+Years+Building+Scalable+Web+Apps;Turning+Ideas+into+Clean%2C+Fast+UIs;Always+Learning+%E2%80%A2+Always+Shipping" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge&logoColor=white)](https://navilur.github.io/) {:target="_blank"}
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navilur-rahman) {:target="_blank"}
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/navilur) {:target="_blank"}
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge&logoColor=white)](https://navilur.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navilur-rahman)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/navilur)
 
 </div>
 
@@ -149,7 +149,7 @@ Modern business management platform with dashboards, employee management, branch
 <br/>
 "Nuxt.js" "Vue 3" "TypeScript" "Nuxt UI"
 <br/>
-🔗 [utso.app](https://utso.app/) {:target="_blank"}
+🔗 [utso.app](https://utso.app/)
 
 </td>
 <td width="50%">
@@ -160,7 +160,7 @@ Multivendor platform with vendor management, products, categories, cart & auth.
 <br/>
 `Vue.js` `PrimeVue` `Bootstrap` `JWT`
 <br/>
-🔗 [uat.desheio.com](https://uat.desheio.com/) {:target="_blank"}
+🔗 [uat.desheio.com](https://uat.desheio.com/)
 
 </td>
 </tr>
@@ -173,7 +173,7 @@ Dynamic corporate web platform with content management, insights, magazines & ec
 <br/>
 `Vue.js` `Pinia` `REST API` `ECharts`
 <br/>
-🔗 [revamp.idlc.com](https://revamp.idlc.com/) {:target="_blank"}
+🔗 [revamp.idlc.com](https://revamp.idlc.com/)
 
 </td>
 <td width="50%">
@@ -240,9 +240,9 @@ I actively use AI as a **development productivity tool**, especially for:
 
 ### 🤝 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge)](https://navilur.github.io/) {:target="_blank"}
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navilur-rahman) {:target="_blank"}
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/navilur) {:target="_blank"}
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge)](https://navilur.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navilur-rahman)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/navilur)
 
 <br/>
 
