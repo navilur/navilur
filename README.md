@@ -27,8 +27,8 @@ const navilur = {
   experience: "5+ years",
 
   education: [
-    "M.Sc. in Computer Science — Daffodil International University",
-    "B.Sc. in Computer Science — Daffodil International University",
+    "M.Sc. in Computer Science & Engineering — Daffodil International University",
+    "B.Sc. in Computer Science & Engineering — Daffodil International University",
     "Google UX Design Professional Certificate"
   ],
 
