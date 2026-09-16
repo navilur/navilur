@@ -9,7 +9,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge&logoColor=white)](https://navilur.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/navilur-rahman))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/navilur)
 
 </div>
@@ -231,7 +231,7 @@ I actively use AI as a **development productivity tool**, especially for:
 ### 🤝 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-6366F1?style=for-the-badge)](https://navilur.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/)](https://www.linkedin.com/in/navilur-rahman)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/navilur)
 
 <br/>
